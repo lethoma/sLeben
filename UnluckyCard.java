@@ -1,0 +1,5 @@
+public class UnluckyCard {
+}
+enum UnluckyCardType {
+  NERF_YASUO, SPRACHBARRIERE, GSCHICHTN, KAPTITALISMUS, FREUNDESSTEUER, BLITZ,
+}
